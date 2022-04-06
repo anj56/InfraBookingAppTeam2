@@ -1,0 +1,11 @@
+module InfraBookingApp {
+	exports com.infrabookingapp.service;
+	exports com.infrabookingapp.apigateway;
+	exports com.infrabookingapp.apigateway.filter;
+	exports com.infrabookingapp.service.feign.client;
+	exports com.infrabookingapp;
+	exports com.infrabookingapp.dao;
+	exports com.infrabookingapp.rest;
+	exports com.infrabookingapp.eurekaserver;
+	exports com.infrabookingapp.entity;
+}

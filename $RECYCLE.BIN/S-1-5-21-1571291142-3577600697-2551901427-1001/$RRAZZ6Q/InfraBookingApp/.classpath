@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="InfraBookingApp/src/main/java"/>
+	<classpathentry kind="src" path="InfraBookingApp/src/test/java"/>
+	<classpathentry kind="src" path="InfraBookingAppAPIGateway/src/main/java"/>
+	<classpathentry kind="src" path="InfraBookingAppAPIGateway/src/test/java"/>
+	<classpathentry kind="src" path="InfraBookingAppEurekaServer/src/main/java"/>
+	<classpathentry kind="src" path="InfraBookingAppEurekaServer/src/test/java"/>
+	<classpathentry kind="lib" path="InfraBookingApp/.mvn/wrapper/maven-wrapper.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="InfraBookingAppAPIGateway/.mvn/wrapper/maven-wrapper.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="InfraBookingAppEurekaServer/.mvn/wrapper/maven-wrapper.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

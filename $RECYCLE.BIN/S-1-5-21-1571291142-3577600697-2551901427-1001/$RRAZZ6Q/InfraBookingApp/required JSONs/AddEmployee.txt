@@ -1,0 +1,6 @@
+{
+	"id":101,
+	"email":"dnyanesh@gmail.com",
+	"password":"abcd",
+	"roles":[{"id":1,"authority":"USER"}]
+}
